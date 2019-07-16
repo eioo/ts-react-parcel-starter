@@ -1,13 +1,16 @@
 # react-hooks-parcel-starter
-TypeScript &  React (Hooks) & Parcel starter pack
+
+TypeScript & React (Hooks) & Parcel starter pack
 
 ## Installation
 
+```
 yarn install
+```
 
 ## Running
 
-Runs development mode by default 
+Runs development mode by default
 
 ```
 yarn start
