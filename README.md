@@ -1,4 +1,4 @@
-# react-hooks-parcel-starter
+# ts-react-parcel-starter
 
 TypeScript & React (Hooks) & Parcel starter pack
 

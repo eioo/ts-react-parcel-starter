@@ -3,8 +3,6 @@
   "extends": ["tslint:latest", "tslint-config-prettier"],
   "rules": {
     "object-literal-sort-keys": false,
-    "no-console": {
-      "severity": "warning"
-    }
+    "no-console": false
   }
 }

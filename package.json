@@ -1,12 +1,11 @@
 {
-  "name": "react-starter",
+  "name": "ts-react-parcel-starter",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "build": "parcel build src/index.html",
-    "dev": "parcel src/index.html",
-    "start": "npm run dev"
+    "start": "parcel src/index.html"
   },
   "dependencies": {
     "json5": "^2.1.0",
